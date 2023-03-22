@@ -82,14 +82,14 @@
     <!-- <rule ref="WordPress.Files.FileName.NotHyphenatedLowercase">
         <exclude-pattern>i18n/</exclude-pattern>
         <exclude-pattern>src/</exclude-pattern>
-        <exclude-pattern>tests/php</exclude-pattern>
+        <exclude-pattern>tests/php</exclude-pattern>s
         <exclude-pattern>tests/Tools/</exclude-pattern>
     </rule> -->
 
-    <rule ref="Squiz.Commenting.FileComment.MissingPackageTag">
+    <!-- <rule ref="Squiz.Commenting.FileComment.MissingPackageTag">
         <exclude-pattern>src/</exclude-pattern>
 		<exclude-pattern>tests/php/</exclude-pattern>
-	</rule>
+	</rule> -->
 	<rule ref="Squiz.Commenting.FileComment.Missing">
 		<exclude-pattern>src/</exclude-pattern>
 		<exclude-pattern>tests/php/</exclude-pattern>
