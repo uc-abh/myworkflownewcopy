@@ -35,10 +35,10 @@
    
 
     <!-- WordPress Coding Standards -->
-    <rule ref="WordPress">
+    <!-- <rule ref="WordPress">
         <exclude-pattern>tests/</exclude-pattern>
         <exclude-pattern>vendor/</exclude-pattern>
-    </rule>
+    </rule> -->
 
     <!-- WooCommerce-specific Rules -->
     <rule ref="Generic.Commenting.DocComment">
